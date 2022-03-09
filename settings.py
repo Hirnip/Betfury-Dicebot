@@ -8,7 +8,7 @@
 # https://discord.gg/vP72jzY2Tk
 
 #set the folder path that your bot is in here r
-folder_path = r'C:\Users\oimap\Desktop\Betfury Bot'
+folder_path = r'C:\Users\Hirnip\Desktop\Betfury-Dicebot-main'
 
 #Set the amount of times you want to double base bet here
 double_times = 2
@@ -20,10 +20,10 @@ withdraw_at = 0.05
 withdraw_amount = 0.025
 
 # BTC start balance for profit tracking
-start_balance = 0.00022371
+start_balance = 0.00022713
 
 # BTC address to withdraw profits to
-wallet_address = 'btc_wallet_address_here'
+wallet_address = 'TGuvhNtw4JsGS2A5CsJojipSzEConaDLXY'
 
 
 #IF you have a discord you can enter a webhook here and send messages for when you are away
@@ -36,4 +36,4 @@ account_name = 'dicebot197'
 
 #Private Key for Tron Link
 
-private_key = 'private_key_here'
+private_key = 'biology square skill fiction position remove allow motion sorry setup artwork gauge'
